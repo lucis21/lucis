@@ -1,0 +1,2 @@
+# lucis
+latihan
